@@ -1,0 +1,17 @@
+For Sleep_NetworkSTBY_Particle
+
+Power Analysis 
+On Power Intervals:
+Start (s) End (s) Avg Power (W)  Stdev Power (w) 
+        0      71          0.52             0.18
+      100     112          0.61             0.24
+      142     214          0.52             0.25
+
+Mean Power of on intervals: 0.53 W
+
+Sleep Power Intervals:
+Start (s) End (s) Avg Power (W)  Stdev Power (w) 
+       72      99          0.11             0.02
+      113     141          0.34             0.17
+
+Mean Power of sleep intervals: 0.22 W
